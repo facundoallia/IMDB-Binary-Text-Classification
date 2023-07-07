@@ -2,14 +2,19 @@
 
 This project uses an IMDB dataset to perform binary text classification. The goal is to predict whether a review is positive or negative using different machine learning models.
 
-Requirements
+## Dataset
+
+The dataset used in this project can be downloaded from the following link: [IMDB Large Movie Review Dataset](https://ai.stanford.edu/~amaas/data/sentiment/). It consists of more than 25,000 movie reviews with labeled sentiments.
+
+
+## Requirements
 Before getting started, make sure you have the following dependencies installed:
 
 * pandas
 * scikit-learn
 * imbalanced-learn
 
-Steps
+## Steps
 1. Clone this repository to your local machine or download the ZIP file.
 2. Open the IMDB_binary_text_classification.ipynb notebook in Jupyter Notebook or Jupyter Lab.
 3. Make sure the IMDB Dataset.csv file is in the same directory as the notebook.
